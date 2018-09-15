@@ -1,5 +1,6 @@
 jupyter
 numpy
 matplotlib
-pandas
+pandas>=0.19.2
 seaborn
+pandas_datareader
